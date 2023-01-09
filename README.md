@@ -3,13 +3,13 @@
     <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="150" style="border-radius: 50%"/>
   <div/>
   <div id="badges">
-    <a href="https://t.me/a_merkin">
+    <a href="https://t.me/a_merkin" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
     <a/>
-    <a href="https://career.habr.com/a_merkin">
+    <a href="https://career.habr.com/a_merkin" target="_blank">
       <img src="https://img.shields.io/badge/Habr-green?style=for-the-badge&logo=Habr&logoColor=white" alt="Habr Badge"/>
     <a/>
-    <a href="https://hh.ru/resume/298f3537ff08f6f2cf0039ed1f566662737032">
+    <a href="https://hh.ru/resume/298f3537ff08f6f2cf0039ed1f566662737032" target="_blank">
       <img src="https://img.shields.io/badge/hh ru-red?style=for-the-badge&logo=HH&logoColor=white" alt="hh Badge"/>
     <a/>
   </div>
