@@ -1,4 +1,6 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/f3CtEsJ72j86DIumaJ/giphy.gif" width="100"/>
+</div>
 
 <!--
 **dlt-yee/dlt-yee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
