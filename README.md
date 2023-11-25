@@ -22,7 +22,7 @@
 ---
       
 ### :man_technologist: About Me :
-My name is Arsen Merkin, I'm a Front-end developer from Ufa (Russia).
+My name is Arsen Merkin, I'm a Front-end developer from Ufa, Russia.
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-a_merkin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/a_merkin)
       
 ---
