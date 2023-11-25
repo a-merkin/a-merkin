@@ -23,8 +23,7 @@
       
 ### :man_technologist: About Me :
 My name is Arsen Merkin, I'm a Front-end developer from Ufa (Russia).
-- :telescope:I work as a Front-end developer at ITcode, a software development company in the field of emergency services.
-- :mortar_board:I am a 3rd year student at USATU, majoring in Informatics and Computer Engineering
+- :mortar_board:I am a 4rd year student at USATU, majoring in Informatics and Computer Engineering
 - :zap:In my free time I study Back-end and Dev-ops.
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-a_merkin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/a_merkin)
       
